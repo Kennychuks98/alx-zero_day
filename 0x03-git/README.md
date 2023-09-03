@@ -1,1 +1,2 @@
-this directory contains my git-related exercises
+first update 
+as a fullstack software engineer
